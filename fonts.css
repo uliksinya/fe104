@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'OpenSans';
+    src:  url(./fonts/OpenSans-Regular.ttf);  
+}
+@font-face {
+    font-family: 'OpenSansBold';
+    src:  url(./fonts/OpenSans-Bold.ttf);  
+}
+@font-face {
+    font-family: 'OpenSansLight';
+    src:  url(./fonts/OpenSans-Light.ttf);  
+}
+@font-face {
+    font-family: 'OpenSansMedium';
+    src:  url(./fonts/OpenSans-Medium.ttf);  
+}
+@font-face {
+    font-family: 'Raleway';
+    src:  url(./fonts/Raleway-Regular.ttf);  
+}
+
+
